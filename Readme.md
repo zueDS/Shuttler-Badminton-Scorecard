@@ -21,3 +21,6 @@ Front End : #C <br>
 Server-Side Script : MySQL <br>
 Database : MySQL <br>
 Framework : Net Framework 4.7 <br>
+<br>
+---PROJECT UI---
+![Uploading Screenshot 2024-07-24 at 12.23.31.png…]()
