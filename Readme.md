@@ -1,10 +1,10 @@
 # Shuttler-Badminton-Scorecard
 
 <br>
-Shuttler - Badminton Score and Player Management System employs file handling to
+<div>Shuttler - Badminton Score and Player Management System employs file handling to
 store data such as player details and scores of each player. The program may show
 scores of each player and the admin can enter score updates of the players during a
-match.
+match.</div>
 
 The ‘Shuttler’ project is built on a database, C# object-oriented programming language,
 and network techniques. We used MySQL as the best and easiest way to store our
