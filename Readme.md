@@ -22,5 +22,15 @@ Server-Side Script : MySQL <br>
 Database : MySQL <br>
 Framework : Net Framework 4.7 <br>
 <br>
----PROJECT UI---
-![Uploading Screenshot 2024-07-24 at 12.23.31.png…]()
+---PROJECT UI--- <br>
+Home Window
+<img width="507" alt="Screenshot 2024-07-24 at 12 23 31" src="https://github.com/user-attachments/assets/5d6947b5-dd6f-4e04-a94a-187fd4248139">
+<br>
+Enter Player Details option
+<img width="523" alt="Screenshot 2024-07-24 at 12 23 41" src="https://github.com/user-attachments/assets/8df07f97-a401-4b42-b393-ef33168c27c6">
+<br>
+Scoreboard
+<img width="511" alt="Screenshot 2024-07-24 at 12 23 44" src="https://github.com/user-attachments/assets/76f15a04-b1f3-4570-9719-618b307998d1">
+<br>
+Update Player Details
+<img width="484" alt="Screenshot 2024-07-24 at 12 23 49" src="https://github.com/user-attachments/assets/3a3592a8-97a0-4dfa-b795-3f486d1399ce">
