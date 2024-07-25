@@ -29,8 +29,8 @@ Framework : Net Framework 4.7 <br>
 <div>Enter Player Details option</div>
 <img width="523" alt="Screenshot 2024-07-24 at 12 23 41" src="https://github.com/user-attachments/assets/8df07f97-a401-4b42-b393-ef33168c27c6">
 <br>
-Scoreboard
+<div>Scoreboard</div>
 <img width="511" alt="Screenshot 2024-07-24 at 12 23 44" src="https://github.com/user-attachments/assets/76f15a04-b1f3-4570-9719-618b307998d1">
 <br>
-Update Player Details
+<div>Update Player Details</div>
 <img width="484" alt="Screenshot 2024-07-24 at 12 23 49" src="https://github.com/user-attachments/assets/3a3592a8-97a0-4dfa-b795-3f486d1399ce">
