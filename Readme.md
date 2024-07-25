@@ -23,10 +23,10 @@ Database : MySQL <br>
 Framework : Net Framework 4.7 <br>
 <br>
 ---PROJECT UI--- <br>
-Home Window
+<div>Home Window</div>
 <img width="507" alt="Screenshot 2024-07-24 at 12 23 31" src="https://github.com/user-attachments/assets/5d6947b5-dd6f-4e04-a94a-187fd4248139">
 <br>
-Enter Player Details option
+<div>Enter Player Details option</div>
 <img width="523" alt="Screenshot 2024-07-24 at 12 23 41" src="https://github.com/user-attachments/assets/8df07f97-a401-4b42-b393-ef33168c27c6">
 <br>
 Scoreboard
